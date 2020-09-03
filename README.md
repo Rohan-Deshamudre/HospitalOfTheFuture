@@ -66,7 +66,7 @@ The proposed solution is to have a drone for:
 **Problem Statement:** The aim is to develop containerized computer vision models for the detection of people violating health protocols and deploy them on edge devices. These edge devices could either be drones or just a regular camera connected to a micro-computer.
 
 **Description of the problem:** To build and deploy three computer vision models for the following problems:	
-1. Mask Compliance -  To detect if people within the field of view are wearing a face mask.
+1. Mask Compliance -  To detect if people within the field of view are wearing a face mask.\
 ![mask.png](img/mask.png)
 2. People Counting - To count the number of people within the field of view.
 3. Proximity Sensing and Social Distancing - To detect if people within the field of view are maintaining appropriate distance between each other.\
