@@ -80,6 +80,8 @@ The proposed solution is to have a drone for:
 **Problem Description:** It is a well known fact that the common issue in the medical industry for senior citizens is that their health deteriorates after a fall. Predicting such a fall would preventing further damages to their health. Also, under the current unprecedented circumstances, it is difficult for the staff of various medical centres to constantly monitor the patients. 
 
 
+![proximity.png](img/Geriatrics.jpg)
+
 [Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
 ### Blockchain
 
