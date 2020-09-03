@@ -67,8 +67,10 @@ The proposed solution is to have a drone for:
 
 **Description of the problem:** To build and deploy three computer vision models for the following problems:	
 1. Mask Compliance -  To detect if people within the field of view are wearing a face mask.
+![mask.png](img/mask.png)
 2. People Counting - To count the number of people within the field of view.
-3. Proximity Sensing and Social Distancing - To detect if people within the field of view are maintaining appropriate distance between each other.
+3. Proximity Sensing and Social Distancing - To detect if people within the field of view are maintaining appropriate distance between each other.\
+![proximity.png](img/proximity.png)
 
 [Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
 
