@@ -32,7 +32,7 @@
 * [About the Project](#about-the-project)
   * [Digital Twin](#digital-twin)
   * [Drone](#drone)
-  * [Vision](#vision)
+  * [Computer vision](#computer-vision)
   * [Geriatrics](#geriatrics)
   * [Blockchain](#blockchain)
 * [Contact](#contact)
@@ -41,6 +41,11 @@
 
 
 ### Digital Twin
+**Problem statement:** The aim is to build a digital twin of the hospital premises. 
+
+**Description of the problem:** Digital Twins have become increasingly popular in the last few years because of their capabilities of influencing design build operations. Digital twin refers to a digital replica of assets in the building, the various rooms and sensors among other entities.  
+In our case, building a digital twin of the hospital will help create an environment, which can be controlled by the user and provides additional Insights for effective operation of edge devices. In this context, edge devices refer to the drone and the conversational chat bot.  
+There is need to monitor the data from sensors, such as the occupancy sensors, temperature sensors, energy consumption, etc. across the building to get an insight into the various factors affecting the facility, which can effectively be provided by the digital twin.
 
 
 ### Drone
@@ -56,10 +61,19 @@ These are only few of the difficulties in navigating indoor environments. A cust
 
 
 
-### Vision
+### Computer vision
+**Problem Statement:** The aim is to develop containerized computer vision models for the detection of people violating health protocols and deploy them on edge devices. These edge devices could either be drones or just a regular camera connected to a micro-computer.
 
+**Description of the problem:** To build and deploy three computer vision models for the following problems:	
+1. Mask Compliance -  To detect if people within the field of view are wearing a face mask.
+2. People Counting - To count the number of people within the field of view.
+3. Proximity Sensing and Social Distancing - To detect if people within the field of view are maintaining appropriate distance between each other.
 
 ### Geriatrics
+**Problem Statement:** Enable fall Detection and to detect if an elderly person got out of the bed.
+
+**Problem Description:** It is a well known fact that the common issue in the medical industry for senior citizens is that their health deteriorates after a fall. Predicting such a fall would preventing further damages to their health. Also, under the current unprecedented circumstances, it is difficult for the staff of various medical centres to constantly monitor the patients. 
+
 
 
 ### Blockchain
