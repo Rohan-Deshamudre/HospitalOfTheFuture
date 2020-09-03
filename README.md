@@ -60,6 +60,8 @@ The proposed solution is to have a drone for:
 2. The drone can be used for surveillance of the hospital facility. We can use its powerful sensors and camera to monitor things such as PPE and social distancing compliance for which we have created computer vision models.
 3. Use the drone to help the staff locate equipment such the closest wheelchair or stretcher using asset tracking which can be enabled through the Azure Digital Twin of the hospital.
 
+![proximity.png](img/drone.png)
+
 [Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
 
 ### Computer vision
