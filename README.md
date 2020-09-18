@@ -37,7 +37,7 @@ There is need to monitor the data from sensors, such as the occupancy sensors, t
 
 [Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
 
-### Drone
+### Drone Navigation
 **Problem statement:** Enabling drone navigation inside a hospital for surveillance and routing between areas of the facility.
 
 **Problem Description:** In a world where healthcare workers are being overworked and a shortage of over 14 million healthcare workers is predicted by 2030, providing assistance via the means of technology is the responsibility of software developers. An edge device that acts as an assistant is required to reduce the burden of hospital staff as well as provide personal attention to patients which helps increase customer satisfaction rates.  
