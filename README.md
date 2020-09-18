@@ -19,7 +19,7 @@
 
 * [About the Project](#about-the-project)
   * [Digital Twin](#digital-twin)
-  * [Drone](#drone)
+  * [Drone Navigation](#drone-navigation)
   * [Computer vision](#computer-vision)
   * [Geriatrics](#geriatrics)
   * [Blockchain](#blockchain)
