@@ -4,23 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" >
   </a>
-
-  <h3 align="center">Contoso Healthcare</h3>
-
+  
   <p align="center">
-    Our vision of Hospital-of-the-future to Reimagine Healthcare.
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    Our vision of Hospital-of-the-future to Reimagine Healthcare
   </p>
 </p>
 
@@ -35,7 +23,7 @@
   * [Computer vision](#computer-vision)
   * [Geriatrics](#geriatrics)
   * [Blockchain](#blockchain)
-* [Contact](#contact)
+
 
 ## About The Project
 
@@ -82,7 +70,7 @@ There is need to monitor the data from sensors, such as the occupancy sensors, t
 
 
 ![proximity.png](img/Geriatrics.jpg)
-<font size="6" style="text-align: right"> https://bit.ly/3krnbAU </font>
+<p align="right"> https://bit.ly/3krnbAU </p>
 
 [Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
 ### Blockchain
@@ -101,6 +89,6 @@ These are just a few of the problems plaguing the wide-spread adoption of digita
 
 Our suggested solution is as an application. The workflow is as follows: 
 
-![blockchain.png](img/blockchain.png)
+![blockchain.png](img/blockchain.PNG)
 
 [Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
