@@ -26,7 +26,18 @@
 
 
 ## About The Project
+**Hospital-of-the-future** focuses on integrating technology to solve current problems faced by the healthcare industry. Some of the prominent issues that stand out are:
+1. Higher expectations from patients
+2. System-wide disruption from rapidly evolving healthcare needs
+3. Healthcare worker burnout and shortages
+4. Fragmented, disconnected, or siloed systems which are barriers to transformation 
 
+The aim is to solve these issues by:
+1. Providing patients with a seamless experience
+2. Reducing burden from the shoulders of healthcare workers 
+3. Progressively working towards improving operational outcomes for healthcare providers.
+
+With this vision in mind, the 5 projects below were built to **Reimagine healthcare**.
 
 ### Digital Twin
 **Problem statement:** The aim is to build a digital twin of the hospital premises. 
@@ -66,8 +77,16 @@ There is need to monitor the data from sensors, such as the occupancy sensors, t
 ### Geriatrics
 **Problem Statement:** Enable fall Detection and to detect if an elderly person got out of the bed.
 
-**Problem Description:** It is a well known fact that the common issue in the medical industry for senior citizens is that their health deteriorates after a fall. Predicting such a fall would preventing further damages to their health. Also, under the current unprecedented circumstances, it is difficult for the staff of various medical centres to constantly monitor the patients. 
+**Problem Description:** Most of the senior citizens are more prone to to falls. Also, their health deteriorates rapidly after a fall and in some cases, it can even lead to deaths. So, the elderly population is definitely one section of the society which requires constant supervision. Also, under the current unprecedented circumstances, it is difficult for the staff of various medical centres to constantly monitor the patients.
 
+**Suggested Solution:**
+To provide a solution to the above problems, these are the computer vision models developed for the care and well being of elderly people. The two computer vision models are:
+
+Fall Detection :
+- A model to detect if a person fell down. 
+
+To Detect if a Person got out of his/her bed :
+- To detect if an elderly patient got out of his/her bed. This could notify the support staff of such an event, so that the patient could get immediate support.
 
 ![proximity.png](img/Geriatrics.jpg)
 <p align="right"> https://bit.ly/3krnbAU </p>
@@ -76,8 +95,7 @@ There is need to monitor the data from sensors, such as the occupancy sensors, t
 ### Blockchain
 **Problem Statement:** Open-ended problem statement on exploring Blockchain technology as a possible, viable solution for contact tracing. 
 
-**Problem Description:** 
-Contact Tracing has traditionally been done manually, and is both manpower intensive and not very reliable. CoVid-19 accelerated the adoption of digital solutions, but today's digital solutions are not ideal, for reasons such as: 
+**Problem Description:** Contact Tracing has traditionally been done manually, and is both manpower intensive and not very reliable. CoVid-19 accelerated the adoption of digital solutions, but today's digital solutions are not ideal, for reasons such as: 
 1. They do not practice the lean data collection protocol, 
 2. Data is stored on central servers, and if the server faces issues, the entire digital solution structure falls apart. Moreover, every solution developed today is limited to a geographical boundary. 
 
