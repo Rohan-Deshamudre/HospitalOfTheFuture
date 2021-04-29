@@ -46,7 +46,7 @@ With this vision in mind, the 5 projects below were built to **Reimagine healthc
 In our case, building a digital twin of the hospital will help create an environment, which can be controlled by the user and provides additional Insights for effective operation of edge devices. In this context, edge devices refer to the drone and the conversational chat bot.  
 There is need to monitor the data from sensors, such as the occupancy sensors, temperature sensors, energy consumption, etc. across the building to get an insight into the various factors affecting the facility, which can effectively be provided by the digital twin.
 
-[Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
+[Go to solution](https://github.com/nikunj-phutela/digital-twin-contoso-healthcare)
 
 ### Drone Navigation
 **Problem statement:** Enabling drone navigation inside a hospital for surveillance and routing between areas of the facility.
@@ -72,7 +72,7 @@ There is need to monitor the data from sensors, such as the occupancy sensors, t
 3. Proximity Sensing and Social Distancing - To detect if people within the field of view are maintaining appropriate distance between each other.\
 ![proximity.png](img/proximity.png)
 
-[Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
+[Go to solution](https://github.com/saahil-jain/Microsoft_Vision)
 
 ### Geriatrics
 **Problem Statement:** Enable fall Detection and to detect if an elderly person got out of the bed.
@@ -91,7 +91,7 @@ To Detect if a Person got out of his/her bed :
 ![proximity.png](img/Geriatrics.jpg)
 <p align="right"> https://bit.ly/3krnbAU </p>
 
-[Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
+[Go to solution](https://github.com/Janya21/Geriatrics)
 ### Blockchain
 **Problem Statement:** Open-ended problem statement on exploring Blockchain technology as a possible, viable solution for contact tracing. 
 
@@ -109,4 +109,4 @@ Our suggested solution is as an application. The workflow is as follows:
 
 ![blockchain.png](img/blockchain.PNG)
 
-[Go to solution](https://github.com/Rohan-Deshamudre/Drone-nav)
+[Go to solution](https://github.com/AnindKiran/Blockchain-Enabled-Contact-Tracing)
